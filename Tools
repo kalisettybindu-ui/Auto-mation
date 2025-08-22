@@ -1,0 +1,63 @@
+Development & Experimentation
+   JupyterLab
+   VS Code
+    scikit-learn
+   PyTorch
+   TensorFlow
+    Pandas
+    DVC (Data Version Control)
+Containerization & Reproducibility
+     Docker
+     Docker Compose
+     Podman
+Deployment & Serving
+     FastAPI
+     Flask
+     Uvicorn
+     Gunicorn
+     NGINX
+     Traefik
+Automation & MLOps
+    APScheduler
+    Apache Airflow
+     Prefect
+     Mlflow
+    DVCWeights & Biases
+    Prometheus
+     Grafana
+     Sentry
+    ELK Stack (Elasticsearch, Logstash, Kibana)
+Hosting / Infrastructure
+    Docker Hub
+     GitHub Container Registry (GHCR)
+    AWS ECS
+    AWS EKS
+    AWS Lambda
+    GCP Vertex AI
+     Azure ML
+    Amazon SageMaker
+     Render
+     Railway
+     Heroku
+Automation & MLOps
+    APScheduler
+    Apache Airflow
+     Prefect
+     Mlflow
+    DVCWeights & Biases
+    Prometheus
+     Grafana
+     Sentry
+    ELK Stack (Elasticsearch, Logstash, Kibana)
+Hosting / Infrastructure
+    Docker Hub
+     GitHub Container Registry (GHCR)
+    AWS ECS
+    AWS EKS
+    AWS Lambda
+    GCP Vertex AI
+     Azure ML
+    Amazon SageMaker
+     Render
+     Railway
+     Heroku
